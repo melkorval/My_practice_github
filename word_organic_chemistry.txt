@@ -20,3 +20,5 @@ endow: dotar
 oppositely: por el contrario
 Whether: si
 releasing: liberado
+doc: punto
+
